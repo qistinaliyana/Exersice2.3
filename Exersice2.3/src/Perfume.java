@@ -1,6 +1,6 @@
 import java.util.*;
 public class Perfume {
-	String Brand;
+    String Brand;
     String Model;
     int ML;
     String MadeIn;
@@ -50,7 +50,7 @@ public class Perfume {
       }
       void calTotalprice() {
     	 System.out.println("Enter total discount : RM ");
-   	     double d2 =s.nextDouble();
+   	 double d2 =s.nextDouble();
     	 System.out.println("Enter total price item : RM ");
     	 double p2 =s.nextDouble();
     	 
